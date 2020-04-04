@@ -14,9 +14,8 @@ Untuk Mengganti Tanggal Silahkan Buka File HappyBirthday.js<br>
       <li>October</li>
       <li>November</li>
       <li>December</li>
-<ul>
-Sesuaikan bulan dengan list diatas<br>
+<ul>Sesuaikan bulan dengan list diatas<br>
 Jangan Lupa Tambahkan URL yang akan dibuka bila countdown sudah timeout<br>
-    if (distance < 0) {<br>
-        window.location.replace("Masukkan Url Setelah Count Selesai");<br>
-    }
+if (distance < 0) {<br>
+window.location.replace("Masukkan Url Setelah Count Selesai");<br>
+}

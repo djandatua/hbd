@@ -1,21 +1,24 @@
-# hbd
-Countdown Happy Birthday
-Untuk Mengganti Tanggal Silahkan Buka File HappyBirthday.js
-      January
-      February
-      March
-      April
-      May
-      June
-      July
-      August
-      September
-      October
-      November
-      December
-Sesuaikan bulan dengan list diatas
+# HBD
+Countdown Happy Birthday<br>
+Untuk Mengganti Tanggal Silahkan Buka File HappyBirthday.js<br>
+<ul>
+      <li>January</li>
+      <li>February</li>
+      <li>March</li>
+      <li>April</li>
+      <li>May</li>
+      <li>June</li>
+      <li>July</li>
+      <li>August</li>
+      <li>September</li>
+      <li>October</li>
+      <li>November</li>
+      <li>December</li>
+<ul>
+<br>
+Sesuaikan bulan dengan list diatas<br>
 .
-Jangan Lupa Tambahkan URL yang akan dibuka bila countdown sudah timeout
-    if (distance < 0) {
-        window.location.replace("Masukkan Url Setelah Count Selesai");
-    }
+Jangan Lupa Tambahkan URL yang akan dibuka bila countdown sudah timeout<br>
+    if (distance < 0) {<br>
+        window.location.replace("Masukkan Url Setelah Count Selesai");<br>
+    }<br>

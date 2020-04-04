@@ -1,4 +1,4 @@
-var count = new Date("Augh 23, 2019 00:00:00").getTime();
+var count = new Date("Augh 23, 2020 00:00:00").getTime();
 
 var x = setInterval(function() {
 
@@ -18,6 +18,6 @@ var x = setInterval(function() {
 
     if (distance < 0) {
         clearInterval(x);
-        //document.getElementById("demo").innerHTML = "EXPIRED";
+        window.location.replace("Masukkan Url Setelah Count Selesai");
     }
 }, 1000);
